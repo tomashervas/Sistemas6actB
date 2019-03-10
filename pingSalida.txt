@@ -1,0 +1,24 @@
+192.168.0.1 ping ok
+192.168.0.1 ping ok
+192.168.0.2 no esta ocupada la ip
+192.168.0.3 no esta ocupada la ip
+192.168.0.4 no esta ocupada la ip
+192.168.0.5 no esta ocupada la ip
+192.168.0.6 no esta ocupada la ip
+192.168.0.7 no esta ocupada la ip
+192.168.0.8 no esta ocupada la ip
+192.168.0.9 no esta ocupada la ip
+192.168.0.10 no esta ocupada la ip
+192.168.0.11 no esta ocupada la ip
+192.168.0.12 no esta ocupada la ip
+192.168.0.13 ping ok
+192.168.0.14 ping ok
+192.168.0.15 no esta ocupada la ip
+192.168.0.16 no esta ocupada la ip
+192.168.0.17 ping ok
+192.168.0.18 ping ok
+192.168.0.19 no esta ocupada la ip
+192.168.0.20 no esta ocupada la ip
+192.168.0.21 no esta ocupada la ip
+192.168.0.22 ping ok
+192.168.0.23 ping ok
