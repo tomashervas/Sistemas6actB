@@ -1,4 +1,3 @@
-
 while read line; do
 	mkdir $line
 	for i in `seq 1 $1`; do
